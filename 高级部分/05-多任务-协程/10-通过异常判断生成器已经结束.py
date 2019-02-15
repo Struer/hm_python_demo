@@ -17,5 +17,5 @@ while True:
         ret = next(obj2)
         print(ret)
     except Exception as ret:
-        print(ret.value)
+        print(ret.value) # 当生成器遇到异常，return "ok...."的值就会返回给异常对象ret的value
         break

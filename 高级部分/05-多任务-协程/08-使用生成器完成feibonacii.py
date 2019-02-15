@@ -18,7 +18,10 @@ obj = create_num(10)
 
 ret = next(obj)
 print(ret)
-
+ret = next(obj)
+print(ret)
+ret = next(obj)
+print(ret)
 ret = next(obj)
 print(ret)
 

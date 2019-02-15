@@ -11,11 +11,12 @@ obj = create_num(10)
 
 # obj.send(None)  # send一般不会放到第一次启动生成器，如果非要这样做 那么传递None
 
-ret = next(obj)
-print(ret)
-
+retvalue = next(obj)
+print(retvalue)
+retvalue = next(obj)
+print(retvalue)
 # send里面的数据会 传递给第5行，当做yield a的结果，然后ret保存这个结果,,, 
 # send的结果是下一次调用yield时 yield后面的值
-ret = obj.send("hahahha")  
-print(ret)
+retvalue1 = obj.send("hahahha")
+print(retvalue1)
 

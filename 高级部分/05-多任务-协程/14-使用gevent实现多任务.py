@@ -17,7 +17,7 @@ def f2(n):
 def f3(n):
     for i in range(n):
         print(gevent.getcurrent(), i)
-        # time.sleep(0.5)
+        # time.sleep(0.5)  time的延时不能触发gevent的切换，需要使用gevent.sleep
         gevent.sleep(0.5)
 
 print("----1---")

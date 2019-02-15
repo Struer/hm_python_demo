@@ -47,9 +47,11 @@ def main():
     all_file_num = len(file_names)  # 测一下所有的文件个数
     copy_ok_num = 0
     while True:
+        # 从队列中获取文件名，没有则祖阻塞，知道队列中有数据
         file_name = q.get()
         # print("已经完成copy：%s" % file_name)
         copy_ok_num+=1
+        # 两个%显示一个%，，end=""实现在同一行显示百分比
         print("\r拷贝的进度为：%.2f %%" % (copy_ok_num*100/all_file_num), end="")
         if copy_ok_num >= all_file_num:
             break

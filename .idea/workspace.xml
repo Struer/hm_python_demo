@@ -2,9 +2,193 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72296cf9-f70d-4906-81ba-b2586cd896c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/07_语法进阶/hm_10_2_可变参数.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_语法进阶/hm_16_多值参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_语法进阶/hm_16_多值参数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/01-网络-udp/08-先绑定端口然后在循环发送.py" beforeDir="false" afterPath="$PROJECT_DIR$/高级部分/01-网络-udp/08-先绑定端口然后在循环发送.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/02-网络-tcp/04-tcp-客户端(client).py" beforeDir="false" afterPath="$PROJECT_DIR$/高级部分/02-网络-tcp/04-tcp-客户端(client).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/02-网络-tcp/[新]1.py" beforeDir="false" afterPath="$PROJECT_DIR$/高级部分/02-网络-tcp/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/02-网络-tcp/[新]2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/07-进程池.py" beforeDir="false" afterPath="$PROJECT_DIR$/高级部分/04-多任务-进程/07-进程池.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/09-案例：多任务文件夹copy-v2-显示进度.py" beforeDir="false" afterPath="$PROJECT_DIR$/高级部分/04-多任务-进程/09-案例：多任务文件夹copy-v2-显示进度.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/高级部分/01-网络-udp/09-udp聊天.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/高级部分/02-网络-tcp/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/高级部分/03-多任务-线程/threadingDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/高级部分/04-多任务-进程/copyDir.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/高级部分/04-多任务-进程/processDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test/6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/__phello__.foo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/_bootlocale.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/_collections_abc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/_compat_pickle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/_compression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/_dummy_thread.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/_markupbase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/_osx_support.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/_pydecimal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/_sitebuiltins.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/_strptime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/_sysconfigdata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/_threading_local.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/_weakrefset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/abc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/aifc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/antigravity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/argparse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/asynchat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/asyncore.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/base64.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/bdb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/binhex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/bisect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/bz2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/cProfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/calendar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/cgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/cgitb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/chunk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/cmd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/codecs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/codeop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/colorsys.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/compileall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/configparser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/contextlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/copy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/copyreg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/crypt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/csv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/datetime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/decimal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/difflib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/dis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/doctest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/dummy_threading.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/enum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/filecmp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/fileinput.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/fnmatch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/formatter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/fractions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/ftplib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/functools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/genericpath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/getopt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/getpass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/gettext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/glob.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/gzip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/hashlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/heapq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/imaplib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/imghdr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/imp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/inspect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/io.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/ipaddress.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/keyword.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/linecache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/locale.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/lzma.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/macpath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/macurl2path.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/mailbox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/mailcap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/mimetypes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/modulefinder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/netrc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/nntplib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/ntpath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/nturl2path.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/opcode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/operator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/optparse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/os.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/pathlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/pdb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/pickle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/pickletools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/pipes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/pkgutil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/platform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/plistlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/poplib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/posixpath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/pprint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/profile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/pstats.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/pty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/py_compile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/pyclbr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/pydoc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/quopri.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/random.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/re.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/reprlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/rlcompleter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/runpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/sched.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/selectors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/shelve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/shlex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/shutil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/signal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/site.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/smtpd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/smtplib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/sndhdr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/socket.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/socketserver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/sre_compile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/sre_constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/sre_parse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/ssl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/stat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/statistics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/struct.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/subprocess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/sunau.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/symbol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/symtable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/sysconfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/tabnanny.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/tarfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/telnetlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/tempfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/textwrap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/this.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/threading.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/timeit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/token.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/tokenize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/trace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/traceback.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/tracemalloc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/tty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/turtle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/types.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/typing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/uu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/uuid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/warnings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/wave.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/weakref.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/webbrowser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/xdrlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/zipapp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/zipfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/05-多任务-协程/08-使用生成器完成feibonacii.py" beforeDir="false" afterPath="$PROJECT_DIR$/高级部分/05-多任务-协程/08-使用生成器完成feibonacii.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/05-多任务-协程/10-通过异常判断生成器已经结束.py" beforeDir="false" afterPath="$PROJECT_DIR$/高级部分/05-多任务-协程/10-通过异常判断生成器已经结束.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/05-多任务-协程/11-通过send来启动生成器.py" beforeDir="false" afterPath="$PROJECT_DIR$/高级部分/05-多任务-协程/11-通过send来启动生成器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高级部分/05-多任务-协程/14-使用gevent实现多任务.py" beforeDir="false" afterPath="$PROJECT_DIR$/高级部分/05-多任务-协程/14-使用gevent实现多任务.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,36 +199,108 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/hm$hm_02_.coverage" NAME="hm_02_快速体验 Coverage Results" MODIFIED="1549860750880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
     <SUITE FILE_PATH="coverage/hm$hm_04_qq.coverage" NAME="hm_04_qq号码 Coverage Results" MODIFIED="1549094960968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
-    <SUITE FILE_PATH="coverage/hm_python_demo$hm_14_.coverage" NAME="hm_14_函数的缺省参数定义 Coverage Results" MODIFIED="1549880273489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
-    <SUITE FILE_PATH="coverage/hm_python_demo$hm_03_.coverage" NAME="hm_03_全局变量 Coverage Results" MODIFIED="1549879014174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
-    <SUITE FILE_PATH="coverage/hm_python_demo$hm_16_.coverage" NAME="hm_16_多值参数 Coverage Results" MODIFIED="1549880376730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$09__server.coverage" NAME="09-案例：文件下载-server Coverage Results" MODIFIED="1550040091531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/02-网络-tcp" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$14_gevent.coverage" NAME="14-使用gevent实现多任务 Coverage Results" MODIFIED="1550167858480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/05-多任务-协程" />
     <SUITE FILE_PATH="coverage/hm$test.coverage" NAME="test Coverage Results" MODIFIED="1549099715575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
     <SUITE FILE_PATH="coverage/hm_python_demo$hm_02_.coverage" NAME="hm_02_局部变量 Coverage Results" MODIFIED="1549878999090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$08_.coverage" NAME="08-先绑定端口然后在循环发送 Coverage Results" MODIFIED="1550036862627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/01-网络-udp" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$hm_20_for.coverage" NAME="hm_20_for语法演练 Coverage Results" MODIFIED="1549875258436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$03__3.coverage" NAME="03-自己实现一个可以迭代的对象-3 Coverage Results" MODIFIED="1550127275674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/05-多任务-协程" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$12_udp.coverage" NAME="12-案例：多任务udp聊天器 Coverage Results" MODIFIED="1550075780480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/03-多任务-线程" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$11_send.coverage" NAME="11-通过send来启动生成器 Coverage Results" MODIFIED="1550164332452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/05-多任务-协程" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$hm_05_.coverage" NAME="hm_05_修改全局变量 Coverage Results" MODIFIED="1549879029119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
+    <SUITE FILE_PATH="coverage/hm$list.coverage" NAME="list Coverage Results" MODIFIED="1549866737340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$09_udp.coverage" NAME="09-udp聊天 Coverage Results" MODIFIED="1550036803328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/01-网络-udp" />
+    <SUITE FILE_PATH="coverage/hm$hm_07_.coverage" NAME="hm_07_买苹果增强版 Coverage Results" MODIFIED="1549095065547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$hm_11_.coverage" NAME="hm_11_函数内部通过方法修改可变参数 Coverage Results" MODIFIED="1549879882955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$01_.coverage" NAME="01-没有多任务的程序 Coverage Results" MODIFIED="1550042388115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/03-多任务-线程" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$02__2.coverage" NAME="02-自己实现一个可以迭代的对象-2 Coverage Results" MODIFIED="1550127123541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/05-多任务-协程" />
+    <SUITE FILE_PATH="coverage/hm$hm_09_.coverage" NAME="hm_09_格式化输出 Coverage Results" MODIFIED="1549095353496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$06_.coverage" NAME="06-循环为多个客户端服务器 Coverage Results" MODIFIED="1550039266363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/02-网络-tcp" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$08_feibonacii.coverage" NAME="08-使用生成器完成feibonacii Coverage Results" MODIFIED="1550163101844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/05-多任务-协程" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$04_tcp__client_.coverage" NAME="04-tcp-客户端(client) Coverage Results" MODIFIED="1550038578922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/02-网络-tcp" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$hm_.coverage" NAME="hm_可变参数 Coverage Results" MODIFIED="1549879812898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$hm_18_.coverage" NAME="hm_18_元组和字典的拆包 Coverage Results" MODIFIED="1549880537891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$processDemo.coverage" NAME="processDemo Coverage Results" MODIFIED="1550111086192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/04-多任务-进程" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$threadingDemo.coverage" NAME="threadingDemo Coverage Results" MODIFIED="1550073293824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/03-多任务-线程" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$05_tcp__server_.coverage" NAME="05-tcp-服务器(server) Coverage Results" MODIFIED="1550038893501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/02-网络-tcp" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$hm_14_.coverage" NAME="hm_14_函数的缺省参数定义 Coverage Results" MODIFIED="1549880273489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$05__5.coverage" NAME="05-自己实现一个可以迭代的对象-5 Coverage Results" MODIFIED="1550127812835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/05-多任务-协程" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$hm_03_.coverage" NAME="hm_03_全局变量 Coverage Results" MODIFIED="1549879014174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$08__client.coverage" NAME="08-案例：文件下载-client Coverage Results" MODIFIED="1550040408968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/02-网络-tcp" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$10_.coverage" NAME="10-通过异常判断生成器已经结束 Coverage Results" MODIFIED="1550163787035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/05-多任务-协程" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$hm_16_.coverage" NAME="hm_16_多值参数 Coverage Results" MODIFIED="1549880376730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$copyDir.coverage" NAME="copyDir Coverage Results" MODIFIED="1550115625896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/04-多任务-进程" />
     <SUITE FILE_PATH="coverage/hm$cards_main.coverage" NAME="cards_main Coverage Results" MODIFIED="1549871057169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_名片管理/01_输入和pass" />
     <SUITE FILE_PATH="coverage/hm_python_demo$hm_08_.coverage" NAME="hm_08_多个返回值 Coverage Results" MODIFIED="1549879182679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
-    <SUITE FILE_PATH="coverage/hm_python_demo$hm_20_for.coverage" NAME="hm_20_for语法演练 Coverage Results" MODIFIED="1549875258436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$13_greenlet.coverage" NAME="13-使用greenlet完成多任务 Coverage Results" MODIFIED="1550167465897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/05-多任务-协程" />
     <SUITE FILE_PATH="coverage/hm_python_demo$cards_main__1_.coverage" NAME="cards_main (1) Coverage Results" MODIFIED="1549876484582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_名片管理/12_搜索名片" />
     <SUITE FILE_PATH="coverage/hm_python_demo$hm_10_.coverage" NAME="hm_10_不可变和可变的参数 Coverage Results" MODIFIED="1549879737484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
     <SUITE FILE_PATH="coverage/hm_python_demo$hm_19_.coverage" NAME="hm_19_字符串拆分和拼接 Coverage Results" MODIFIED="1549874785340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
-    <SUITE FILE_PATH="coverage/hm_python_demo$hm_05_.coverage" NAME="hm_05_修改全局变量 Coverage Results" MODIFIED="1549879029119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
-    <SUITE FILE_PATH="coverage/hm$list.coverage" NAME="list Coverage Results" MODIFIED="1549866737340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$07_.coverage" NAME="07-进程池 Coverage Results" MODIFIED="1550112702684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/04-多任务-进程" />
     <SUITE FILE_PATH="coverage/hm$hm_19_.coverage" NAME="hm_19_字符串拆分和拼接 Coverage Results" MODIFIED="1549872551147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级数据类型" />
     <SUITE FILE_PATH="coverage/hm_python_demo$hm_04_.coverage" NAME="hm_04_函数不能直接修改全局变量 Coverage Results" MODIFIED="1549879042232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
-    <SUITE FILE_PATH="coverage/hm$hm_07_.coverage" NAME="hm_07_买苹果增强版 Coverage Results" MODIFIED="1549095065547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
-    <SUITE FILE_PATH="coverage/hm_python_demo$hm_11_.coverage" NAME="hm_11_函数内部通过方法修改可变参数 Coverage Results" MODIFIED="1549879882955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
     <SUITE FILE_PATH="coverage/hm_python_demo$hm_12_.coverage" NAME="hm_12_加等于（面试题） Coverage Results" MODIFIED="1549880179059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
-    <SUITE FILE_PATH="coverage/hm$hm_09_.coverage" NAME="hm_09_格式化输出 Coverage Results" MODIFIED="1549095353496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$09__.coverage" NAME="09-共享全局变量的问题-资源竞争 Coverage Results" MODIFIED="1550075269664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/03-多任务-线程" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$02___demo.coverage" NAME="02-多任务-线程-demo Coverage Results" MODIFIED="1550042417553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/03-多任务-线程" />
+    <SUITE FILE_PATH="coverage/hm_python_demo$09_copy_v2_.coverage" NAME="09-案例：多任务文件夹copy-v2-显示进度 Coverage Results" MODIFIED="1550116415107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级部分/04-多任务-进程" />
     <SUITE FILE_PATH="coverage/hm$hm_08_1.coverage" NAME="hm_08_买苹果改进1 Coverage Results" MODIFIED="1549097429350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Python基础" />
-    <SUITE FILE_PATH="coverage/hm_python_demo$hm_.coverage" NAME="hm_可变参数 Coverage Results" MODIFIED="1549879812898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
-    <SUITE FILE_PATH="coverage/hm_python_demo$hm_18_.coverage" NAME="hm_18_元组和字典的拆包 Coverage Results" MODIFIED="1549880537891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_语法进阶" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_18_元组和字典的拆包.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/12-使用yield完成多任务.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="258">
+              <caret line="13" column="23" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/13-使用greenlet完成多任务.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/14-使用gevent实现多任务.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="19" column="16" selection-start-line="19" selection-end-line="20" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/downloader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/15-gevent打补丁.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,7 +318,11 @@
     <findStrings>
       <find>print_lines</find>
       <find>函数代码完成</find>
+      <find>mutex</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -84,14 +344,28 @@
         <option value="$PROJECT_DIR$/06_名片管理/12_搜索名片/cards_main.py" />
         <option value="$PROJECT_DIR$/07_语法进阶/hm_可变参数.py" />
         <option value="$PROJECT_DIR$/07_语法进阶/hm_16_多值参数.py" />
+        <option value="$PROJECT_DIR$/高级部分/01-网络-udp/09-udp聊天.py" />
+        <option value="$PROJECT_DIR$/高级部分/01-网络-udp/08-先绑定端口然后在循环发送.py" />
+        <option value="$PROJECT_DIR$/高级部分/02-网络-tcp/04-tcp-客户端(client).py" />
+        <option value="$PROJECT_DIR$/高级部分/02-网络-tcp/2.txt" />
+        <option value="$PROJECT_DIR$/高级部分/03-多任务-线程/threadingDemo.py" />
+        <option value="$PROJECT_DIR$/高级部分/03-多任务-线程/10-使用互斥锁解决资源竞争的问题.py" />
+        <option value="$PROJECT_DIR$/高级部分/04-多任务-进程/processDemo.py" />
+        <option value="$PROJECT_DIR$/高级部分/04-多任务-进程/07-进程池.py" />
+        <option value="$PROJECT_DIR$/高级部分/04-多任务-进程/copyDir.py" />
+        <option value="$PROJECT_DIR$/高级部分/04-多任务-进程/09-案例：多任务文件夹copy-v2-显示进度.py" />
+        <option value="$PROJECT_DIR$/高级部分/05-多任务-协程/08-使用生成器完成feibonacii.py" />
+        <option value="$PROJECT_DIR$/高级部分/05-多任务-协程/10-通过异常判断生成器已经结束.py" />
+        <option value="$PROJECT_DIR$/高级部分/05-多任务-协程/11-通过send来启动生成器.py" />
+        <option value="$PROJECT_DIR$/高级部分/05-多任务-协程/14-使用gevent实现多任务.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1910" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1060" />
+    <option name="x" value="1903" />
+    <option name="y" value="-17" />
+    <option name="width" value="3032" />
+    <option name="height" value="1657" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -99,6 +373,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,11 +381,66 @@
               <item name="hm_python_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hm_python_demo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hm_python_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hm_python_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="高级部分" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hm_python_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hm_python_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="高级部分" type="462c0819:PsiDirectoryNode" />
+              <item name="03-多任务-线程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hm_python_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hm_python_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="高级部分" type="462c0819:PsiDirectoryNode" />
+              <item name="04-多任务-进程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hm_python_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hm_python_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="高级部分" type="462c0819:PsiDirectoryNode" />
+              <item name="05-多任务-协程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hm_python_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hm_python_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="高级部分" type="462c0819:PsiDirectoryNode" />
+              <item name="09-tcp ip协议、wireshark、网络通信过程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hm_python_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hm_python_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="高级部分" type="462c0819:PsiDirectoryNode" />
+              <item name="10-python提高-1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hm_python_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hm_python_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="高级部分" type="462c0819:PsiDirectoryNode" />
+              <item name="10-python提高-1" type="462c0819:PsiDirectoryNode" />
+              <item name="4-代码" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hm_python_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hm_python_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="高级部分" type="462c0819:PsiDirectoryNode" />
+              <item name="10-python提高-1" type="462c0819:PsiDirectoryNode" />
+              <item name="4-代码" type="462c0819:PsiDirectoryNode" />
+              <item name="GIL_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hm_python_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hm_python_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="高级部分" type="462c0819:PsiDirectoryNode" />
+              <item name="11-python提高-2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,6 +452,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pyworkspace\hm_python_demo\高级部分\02-网络-tcp" />
       <recent name="D:\pyworkspace\hm_python_demo\06_名片管理" />
       <recent name="D:\pyworkspace\hm_python_demo\06_名片管理备课" />
       <recent name="D:\pyworkspace\hm_python_demo\07_语法进阶" />
@@ -140,8 +471,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hm_18_元组和字典的拆包">
-    <configuration name="hm_11_函数内部通过方法修改可变参数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.14-使用gevent实现多任务">
+    <configuration name="08-使用生成器完成feibonacii" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hm_python_demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,12 +480,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_语法进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高级部分/05-多任务-协程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_语法进阶/hm_11_函数内部通过方法修改可变参数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高级部分/05-多任务-协程/08-使用生成器完成feibonacii.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +494,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_12_加等于（面试题）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10-通过异常判断生成器已经结束" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hm_python_demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,12 +502,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_语法进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高级部分/05-多任务-协程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_语法进阶/hm_12_加等于（面试题）.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高级部分/05-多任务-协程/10-通过异常判断生成器已经结束.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +516,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_14_函数的缺省参数定义" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11-通过send来启动生成器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hm_python_demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,12 +524,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_语法进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高级部分/05-多任务-协程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_语法进阶/hm_14_函数的缺省参数定义.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高级部分/05-多任务-协程/11-通过send来启动生成器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,7 +538,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_16_多值参数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="13-使用greenlet完成多任务" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hm_python_demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,12 +546,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_语法进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高级部分/05-多任务-协程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_语法进阶/hm_16_多值参数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高级部分/05-多任务-协程/13-使用greenlet完成多任务.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +560,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hm_18_元组和字典的拆包" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="14-使用gevent实现多任务" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hm_python_demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,12 +568,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_语法进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高级部分/05-多任务-协程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_语法进阶/hm_18_元组和字典的拆包.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高级部分/05-多任务-协程/14-使用gevent实现多任务.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,11 +584,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hm_18_元组和字典的拆包" />
-        <item itemvalue="Python.hm_16_多值参数" />
-        <item itemvalue="Python.hm_14_函数的缺省参数定义" />
-        <item itemvalue="Python.hm_12_加等于（面试题）" />
-        <item itemvalue="Python.hm_11_函数内部通过方法修改可变参数" />
+        <item itemvalue="Python.14-使用gevent实现多任务" />
+        <item itemvalue="Python.13-使用greenlet完成多任务" />
+        <item itemvalue="Python.11-通过send来启动生成器" />
+        <item itemvalue="Python.10-通过异常判断生成器已经结束" />
+        <item itemvalue="Python.08-使用生成器完成feibonacii" />
       </list>
     </recent_temporary>
   </component>
@@ -282,6 +613,9 @@
       <workItem from="1549860278774" duration="6004000" />
       <workItem from="1549872958947" duration="323000" />
       <workItem from="1549873310972" duration="6723000" />
+      <workItem from="1550026005069" duration="6099000" />
+      <workItem from="1550042679641" duration="4235000" />
+      <workItem from="1550107166309" duration="15704000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1549873197130</created>
@@ -301,7 +635,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17966000" />
+    <option name="totallyTimeSpent" value="44004000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -313,30 +647,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1552" height="848" extended-state="0" />
+    <frame x="1913" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2141901" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21730383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26734105" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36560693" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2630058" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36416185" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32803467" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.25433525" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49966466" weight="0.25289017" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32756132" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50033534" side_tool="true" weight="0.25289017" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32658958" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32803467" />
+      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,6 +702,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
@@ -389,314 +738,405 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01_Python基础/test.py">
+    <entry file="file://$PROJECT_DIR$/高级部分/02-网络-tcp/08-案例：文件下载-client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/02-网络-tcp/[新]2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="45" lean-forward="true" selection-start-column="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/02-网络-tcp/09-案例：文件下载-server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" lean-forward="true" selection-end-line="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_函数/hm_02_快速体验.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_函数/hm_01_九九乘法表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_函数/hm_03_第1个函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_函数/hm_04_第1个函数改造.py">
+    <entry file="file://$PROJECT_DIR$/高级部分/03-多任务-线程/01-没有多任务的程序.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_函数/hm_09_打印多条分隔线.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/threading.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
+        <state relative-caret-position="-1801" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_函数/list.py">
+    <entry file="file://$PROJECT_DIR$/高级部分/03-多任务-线程/02-多任务-线程-demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="475">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_高级数据类型/hm_06_元组基本使用.py">
+    <entry file="file://$PROJECT_DIR$/高级部分/03-多任务-线程/04-循环查看当前运行的线程.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="528">
+          <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_高级数据类型/hm_07_元组遍历.py">
+    <entry file="file://$PROJECT_DIR$/高级部分/03-多任务-线程/03-让某些线程先执行.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="14" selection-start-line="2" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="-22">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_高级数据类型/hm_08_格式化字符串.py">
+    <entry file="file://C:/otherProgram/Python37/Lib/threading.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="15" />
+        <state relative-caret-position="166">
+          <caret line="916" selection-start-line="916" selection-end-line="916" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_名片管理/15_删除名片/cards_main.py">
+    <entry file="file://$PROJECT_DIR$/高级部分/09-tcp ip协议、wireshark、网络通信过程/QQ20171023-095913@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/03-多任务-线程/09-共享全局变量的问题-资源竞争.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="275">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_名片管理/01_输入和pass/cards_main.py">
+    <entry file="file://$PROJECT_DIR$/高级部分/03-多任务-线程/10-使用互斥锁解决资源竞争的问题.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="975">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/06_名片管理备课/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/06_名片管理/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/05_高级数据类型/hm_10_字典基本使用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_高级数据类型/hm_11_字典的其他操作.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="23" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_高级数据类型/hm_12_字典的遍历.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_高级数据类型/hm_14_字符串定义和遍历.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_高级数据类型/hm_15_字符串统计操作.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_高级数据类型/hm_16_字符串判断方法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_高级数据类型/hm_17_字符串的查找和替换.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_高级数据类型/hm_18_字符串文本对齐.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_高级数据类型/hm_20_for语法演练.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_高级数据类型/hm_19_字符串拆分和拼接.py">
+    <entry file="file://$PROJECT_DIR$/高级部分/03-多任务-线程/11-使用互斥锁解决资源竞争的问题2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_名片管理/12_搜索名片/cards_main.py">
+    <entry file="file://$PROJECT_DIR$/高级部分/03-多任务-线程/05-验证创建线程以及运行时间.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="200">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_名片管理/11_判断名片数量/cards_main.py">
+    <entry file="file://$PROJECT_DIR$/高级部分/03-多任务-线程/12-案例：多任务udp聊天器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-676" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_名片管理/19_增加函数文档注释/cards_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="454">
+          <caret line="43" column="10" lean-forward="true" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_名片管理/19_增加函数文档注释/cards_tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_名片管理/20_shebang/cards_main.py">
+    <entry file="file://$PROJECT_DIR$/高级部分/04-多任务-进程/04-给Process传递参数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="25" />
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_名片管理/20_shebang/cards_tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-275">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_02_局部变量.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_03_全局变量.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_04_函数不能直接修改全局变量.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_05_修改全局变量.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_06_全局变量的位置.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_07_全局变量命名.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_08_多个返回值.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_09_交换数字（面试题）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_10_2_可变参数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_10_不可变和可变的参数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_11_函数内部通过方法修改可变参数.py">
+    <entry file="file://$PROJECT_DIR$/高级部分/04-多任务-进程/05-多进程之间不共享全局变量.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="14" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_12_加等于（面试题）.py">
+    <entry file="file://$PROJECT_DIR$/高级部分/04-多任务-进程/06-多进程之间通过Queue来实现数据共享.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-836" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/11-python提高-2/通过with、自己实现的上下文管理器完成文件的操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/multiprocessing/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/otherProgram/Python37/Lib/multiprocessing/spawn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/04-多任务-进程/07-进程池.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <folding>
+            <element signature="e#23#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/otherProgram/Python37/Lib/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="355" column="24" selection-start-line="355" selection-start-column="20" selection-end-line="355" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/03-多任务-线程/threadingDemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_13_函数的缺省参数.py">
+    <entry file="file://$PROJECT_DIR$/高级部分/04-多任务-进程/processDemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state relative-caret-position="125">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_14_函数的缺省参数定义.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_17_多值参数求和.py">
+    <entry file="file://$PROJECT_DIR$/高级部分/04-多任务-进程/test/1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_15_缺省参数注意点.py">
+    <entry file="file://$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/04-多任务-进程/test/_bootlocale.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        <state relative-caret-position="150">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_16_多值参数.py">
+    <entry file="file://$PROJECT_DIR$/高级部分/04-多任务-进程/test[复件]/__future__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+        <state relative-caret-position="-3050">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_语法进阶/hm_18_元组和字典的拆包.py">
+    <entry file="file://$PROJECT_DIR$/高级部分/04-多任务-进程/test/__future__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="-3225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/04-多任务-进程/08-案例：多任务文件夹copy-v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-700">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/04-多任务-进程/copyDir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/04-多任务-进程/09-案例：多任务文件夹copy-v2-显示进度.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="59" column="11" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/02-自己实现一个可以迭代的对象-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/01-自己实现一个可以迭代的对象-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/03-自己实现一个可以迭代的对象-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1213396852/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="4688" column="6" selection-start-line="4688" selection-start-column="6" selection-end-line="4688" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/04-自己实现一个可以迭代的对象-4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/05-自己实现一个可以迭代的对象-5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/06-fibonacci-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/07-fibonacci-2-迭代器.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/08-使用生成器完成feibonacii.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/09-生成器的研究.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="15" column="57" lean-forward="true" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/10-通过异常判断生成器已经结束.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="24" lean-forward="true" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/11-通过send来启动生成器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/12-使用yield完成多任务.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="13" column="23" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/13-使用greenlet完成多任务.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/15-gevent打补丁.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/14-使用gevent实现多任务.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="16" selection-start-line="19" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/高级部分/05-多任务-协程/downloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

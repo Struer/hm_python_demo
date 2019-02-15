@@ -5,7 +5,7 @@ def main():
     udp_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
     # 绑定本地信息
-    udp_socket.bind(("", 7890))
+    udp_socket.bind(("", 1024))
 
     while True:
 
@@ -15,7 +15,7 @@ def main():
         # 可以使用套接字收发数据
         # udp_socket.sendto("hahahah", 对方的ip以及port)
         # udp_socket.sendto(b"hahahah------1----", ("192.168.33.53", 8080))
-        udp_socket.sendto(send_data.encode("utf-8"), ("192.168.252.2", 8080))
+        udp_socket.sendto(send_data.encode("utf-8"), ("192.168.252.2", 7890))
 
 
     # 关闭套接字
